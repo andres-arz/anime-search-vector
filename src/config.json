@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "port": 6333,
+  "pools": {
+    "0": "danbooru",
+    "1": "gelbooru"
+  },
+  "collections": ["danbooru", "gelbooru"]
+}
